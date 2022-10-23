@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Web+Developper;French;Junior Developper" alt="Typing SVG" />
 
 ## Skills
 
@@ -36,7 +36,7 @@
 <img align="left" alt="React" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" title="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
-
+<img align="left" alt="VueJS" title="VueJS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 
@@ -46,11 +46,10 @@
 <br/>
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/eec38ac8-99d6-4b73-a45a-6d24ff38d82b.svg)](https://wakatime.com/@eec38ac8-99d6-4b73-a45a-6d24ff38d82b)
+[![wakatime](https://wakatime.com/badge/user/eec38ac8-99d6-4b73-a45a-6d24ff38d82b.svg)](https://wakatime.com/@eec38ac8-99d6-4b73-a45a-6d24ff38d82b) [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/FazCodeFR) ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FazCodeFR.visitor-badge)
 
 <br />
 <img alt="Langage stat" src="https://github-readme-stats.vercel.app/api/?username=FazCodeFR&theme=github_dark&layout=compact&count_private=true" />
-
 
 </div>
 
