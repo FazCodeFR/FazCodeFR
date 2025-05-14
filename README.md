@@ -1,25 +1,17 @@
 ### Bonjour 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full Stack Developpeur Web;Recherche de poste developpeur web" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=D%C3%A9veloppeur+Web+FullStack+TS)](https://git.io/typing-svg)
+
 
 ## Compétences
 
 <img align="left" alt="NestJS" title="NestJS" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="VueJS" title="VueJS" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Express" title="Express" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Angular" title="Angular" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" title="HTML5" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" title="TypeScript" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Angular" title="Angular" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" title="Node.js" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" title="MySQL" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgresSQL" title="PostgreSQL" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-
-
-<img align="left" alt="PHP" title="PHP" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" title="Git" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Express" title="Express" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 
 
 
